@@ -14,8 +14,6 @@ X_train.csv, X_test.csv (features)
 
 y_train.csv, y_test.csv (labels)
 
-Sample: 100,000 complaints (stratified sample)
-
 Target Variable: company_response_to_consumer
 
 Text Field: consumer_complaint_narrative
